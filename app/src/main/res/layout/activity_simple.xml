@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="#000000">
 
-    <com.opensource.svgaplayer.SVGAImageView
+    <com.gamesdk.svgaplayer.SVGAImageView
         android:layout_height="match_parent"
         android:layout_width="match_parent"
         android:scaleType="fitCenter"

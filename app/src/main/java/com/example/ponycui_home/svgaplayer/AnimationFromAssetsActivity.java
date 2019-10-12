@@ -6,14 +6,12 @@ import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.view.View;
 
-import com.opensource.svgaplayer.SVGADrawable;
-import com.opensource.svgaplayer.SVGAImageView;
-import com.opensource.svgaplayer.SVGAParser;
-import com.opensource.svgaplayer.SVGAVideoEntity;
+import com.gamesdk.svgaplayer.SVGAImageView;
+import com.gamesdk.svgaplayer.SVGAParser;
+import com.gamesdk.svgaplayer.SVGAVideoEntity;
 
 import org.jetbrains.annotations.NotNull;
 
-import java.net.URL;
 import java.util.ArrayList;
 
 public class AnimationFromAssetsActivity extends Activity {

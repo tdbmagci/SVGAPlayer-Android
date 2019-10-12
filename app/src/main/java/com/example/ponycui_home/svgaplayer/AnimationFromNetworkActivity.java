@@ -5,9 +5,9 @@ import android.graphics.Color;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 
-import com.opensource.svgaplayer.SVGAImageView;
-import com.opensource.svgaplayer.SVGAParser;
-import com.opensource.svgaplayer.SVGAVideoEntity;
+import com.gamesdk.svgaplayer.SVGAImageView;
+import com.gamesdk.svgaplayer.SVGAParser;
+import com.gamesdk.svgaplayer.SVGAVideoEntity;
 
 import org.jetbrains.annotations.NotNull;
 
